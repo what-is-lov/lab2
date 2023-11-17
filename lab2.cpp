@@ -38,7 +38,7 @@ int main()
 	for (int i=-7; i<=3; i++)
 	{
 		x = i;
-		cout << "Ïðè õ =" << i;
+		cout << "ÃÃ°Ã¨ Ãµ =" << i;
 		cout << "\t y = " << s(x) << endl;
 	}
 			
